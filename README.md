@@ -14,9 +14,16 @@ npm i
 node index.js
 ```
 
-### Remote
+### Remote #1
 ```
 cd subA
+npm i
+npm run start
+```
+
+### Remote #2
+```
+cd subB
 npm i
 npm run start
 ```
